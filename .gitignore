@@ -1,0 +1,11 @@
+build*/
+docs/
+exe/
+*.o
+.pytest_cache/
+.ruff_cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
